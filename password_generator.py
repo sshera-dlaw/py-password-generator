@@ -1,4 +1,4 @@
-# Passwor Generator Using Python
+# Password Generator Using Python
 import random
 import string
 
