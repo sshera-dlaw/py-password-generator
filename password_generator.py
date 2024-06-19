@@ -5,7 +5,7 @@ import string
 print(string.ascii_letters)
 print(string.digits)
 
-data = int(input("Panjang Password yang diinginkan: "))
+data = int(input("The generated password is : "))
 generator = string.ascii_letters + string.digits
 x = []
 for i in range(data):
